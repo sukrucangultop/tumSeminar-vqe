@@ -1,0 +1,6 @@
+numpy==1.21.4
+notebook==6.4.6
+pyscf==2.0.1
+qiskit==0.31.0
+matplotlib==3.4.3
+pylatexenc==2.10
